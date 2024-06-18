@@ -1,2 +1,2 @@
 
-print("Olá pessoal")
+prit("Olá pessoal")
