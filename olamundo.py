@@ -1,3 +1,3 @@
 
-print("Olá pessoal")
-print("Tudo Certo")
+prit("Olá pessoal")
+prit("Tudo Certo")
